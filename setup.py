@@ -18,8 +18,7 @@ setup(
         'Intended Audience :: Developers',
         'Topic :: Software Development :: Code Generators', 
         'Programming Language :: Python :: 3.10',
-        'license' :: OSI-Approved :: MIT,
-        'operating system  :: os independent'
+        'operating system  :: os independent',
     ],
     install_requires=[],
     keywords='django reusable app',
