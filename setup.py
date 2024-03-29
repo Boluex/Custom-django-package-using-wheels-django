@@ -10,7 +10,7 @@ setup(
     packages= find_packages(where='login_proj'),
     long_description= long_des,
     long_description_content_type='text/markdown',
-    url='',
+    url='https://github.com/Boluex/Custom-django-package-using-wheels-django.git',
     author='Oladeji Olaoluwa',
     author_email='oladejiolaoluwa46@gmail.com',
     classifiers=[
