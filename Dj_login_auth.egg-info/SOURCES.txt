@@ -1,0 +1,7 @@
+MANIFEST.in
+readme.MD
+setup.py
+Dj_login_auth.egg-info/PKG-INFO
+Dj_login_auth.egg-info/SOURCES.txt
+Dj_login_auth.egg-info/dependency_links.txt
+Dj_login_auth.egg-info/top_level.txt

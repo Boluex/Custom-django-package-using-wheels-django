@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: Dj_login_auth
+Version: 0.0.1
+Summary: A reusable django login auth application
+Home-page: https://github.com/Boluex/Custom-django-package-using-wheels-django.git
+Author: Oladeji Olaoluwa
+Author-email: oladejiolaoluwa46@gmail.com
+Keywords: django reusable app
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Code Generators
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+
+A reusable django application.....
+
+A simple,efficient way for developer to login without writing much code...it works by calling the package name and function and passing into them some parameter,which include email and password.For proper functionality you can create a testcase that logs in using username-admin@gmail.com and password-admin123.
